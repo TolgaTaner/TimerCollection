@@ -1,0 +1,6 @@
+framework module TimerCollection {
+  umbrella header "TimerCollection-umbrella.h"
+
+  export *
+  module * { export * }
+}

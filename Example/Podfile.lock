@@ -1,0 +1,16 @@
+PODS:
+  - TimerCollection (0.1.0)
+
+DEPENDENCIES:
+  - TimerCollection (from `../`)
+
+EXTERNAL SOURCES:
+  TimerCollection:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TimerCollection: 26e782bcd0024dcf9543ab67fcf3609f4d60cf04
+
+PODFILE CHECKSUM: f3d50b4c74c42629289309da2e8e24dced2823cf
+
+COCOAPODS: 1.9.3
