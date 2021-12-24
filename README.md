@@ -22,7 +22,7 @@ pod 'TimerCollection'
 
 ## Author
 
-tolgataner, tolgataner43@gmail.com
+tolgataner, dev.tolgataner@icloud.com
 
 ## License
 
